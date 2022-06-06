@@ -1,0 +1,16 @@
+C:\Users\iwnl0\source\repos\Крестики-нолики\bin\Debug\netcoreapp3.1\Крестики-нолики.exe
+C:\Users\iwnl0\source\repos\Крестики-нолики\bin\Debug\netcoreapp3.1\Крестики-нолики.deps.json
+C:\Users\iwnl0\source\repos\Крестики-нолики\bin\Debug\netcoreapp3.1\Крестики-нолики.runtimeconfig.json
+C:\Users\iwnl0\source\repos\Крестики-нолики\bin\Debug\netcoreapp3.1\Крестики-нолики.runtimeconfig.dev.json
+C:\Users\iwnl0\source\repos\Крестики-нолики\bin\Debug\netcoreapp3.1\Крестики-нолики.dll
+C:\Users\iwnl0\source\repos\Крестики-нолики\bin\Debug\netcoreapp3.1\Крестики-нолики.pdb
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики_нолики.Form1.resources
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.csproj.GenerateResource.cache
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.AssemblyInfoInputs.cache
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.AssemblyInfo.cs
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.csproj.CoreCompileInputs.cache
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.dll
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.pdb
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.genruntimeconfig.cache
+C:\Users\iwnl0\source\repos\Крестики-нолики\obj\Debug\netcoreapp3.1\Крестики-нолики.csproj.AssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\iwnl0\source\repos\Windows Form\bin\Debug\netcoreapp3.1\Windows Form.exe
+C:\Users\iwnl0\source\repos\Windows Form\bin\Debug\netcoreapp3.1\Windows Form.deps.json
+C:\Users\iwnl0\source\repos\Windows Form\bin\Debug\netcoreapp3.1\Windows Form.runtimeconfig.json
+C:\Users\iwnl0\source\repos\Windows Form\bin\Debug\netcoreapp3.1\Windows Form.runtimeconfig.dev.json
+C:\Users\iwnl0\source\repos\Windows Form\bin\Debug\netcoreapp3.1\Windows Form.dll
+C:\Users\iwnl0\source\repos\Windows Form\bin\Debug\netcoreapp3.1\Windows Form.pdb
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.csproj.AssemblyReference.cache
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows_Form.Form1.resources
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.csproj.GenerateResource.cache
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.AssemblyInfoInputs.cache
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.AssemblyInfo.cs
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.dll
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.pdb
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows Form.genruntimeconfig.cache
+C:\Users\iwnl0\source\repos\Windows Form\bin\Debug\netcoreapp3.1\ru\Windows Form.resources.dll
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows_Form.Form1.ru.resources
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\ru\Windows Form.resources.dll
+C:\Users\iwnl0\source\repos\Windows Form\obj\Debug\netcoreapp3.1\Windows_Form.Form2.resources

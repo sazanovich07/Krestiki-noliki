@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Крестики-нолики", "Крестики-нолики.csproj", "{F12CFF5B-D57D-4192-ADA8-1091EC6EC76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12CFF5B-D57D-4192-ADA8-1091EC6EC76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12CFF5B-D57D-4192-ADA8-1091EC6EC76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12CFF5B-D57D-4192-ADA8-1091EC6EC76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12CFF5B-D57D-4192-ADA8-1091EC6EC76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {527DCC2D-FF48-4EB0-8628-D6A4AA5B64E3}
+	EndGlobalSection
+EndGlobal
